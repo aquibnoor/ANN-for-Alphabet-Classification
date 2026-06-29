@@ -65,4 +65,4 @@ Build a deep learning model capable of learning complex patterns within structur
 
 ## Author
 
-Aquib Noor
+Aquib Nooruddeen Shams
